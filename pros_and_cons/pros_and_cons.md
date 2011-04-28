@@ -2,6 +2,10 @@
 
 # Pro's and Con's
 
+!SLIDE center
+
+# Pros
+
 !SLIDE center 
 
 # Real World Need
@@ -60,3 +64,12 @@
 			}
 	    }
 	}
+
+!SLIDE center 
+
+# Con's
+
+!SLIDE center
+
+# "For us, by us"
+![not for you](haters_gonna_hate.png)
