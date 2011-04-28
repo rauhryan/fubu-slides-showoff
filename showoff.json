@@ -1,0 +1,9 @@
+{
+	"name" : "y FubuMVC?",
+	"description": "Why should you care about FubuMVC?",
+	"sections" : [
+        	{"section":"intro"}
+		,{"section":"features"}
+		,{"section":"pros_and_cons"}
+	]
+}
