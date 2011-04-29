@@ -1,4 +1,4 @@
-body{background:url(bg.jpg) repeat top left; color:#333;}
+body{background-image:url(bg-twitter.jpg); background-attachment:fixed; background-repeat:no-repeat; background-color:#131516; color:#333;}
 .smallest {font-size:50%;}
 .light{font-weight: lighter;}
 h1, .impact{font-family: "Impact", "Arial Black", Arial, sans-serif;}
