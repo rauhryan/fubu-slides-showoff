@@ -73,3 +73,7 @@
 
 # "For us, by us"
 ![not for you](haters_gonna_hate.png)
+
+!SLIDE center
+# Not mainstream
+![google_search](google_controls.png)
