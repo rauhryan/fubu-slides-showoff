@@ -1,1 +1,4 @@
+body{background:url(bg.jpg) repeat top left; color:#333;}
 .smallest {font-size:50%;}
+.light{font-weight: lighter;}
+h1, .impact{font-family: "Impact", "Arial Black", Arial, sans-serif;}

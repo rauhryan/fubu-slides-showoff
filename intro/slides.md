@@ -2,28 +2,40 @@
 
 ![logo](logo.png)
 
-!SLIDE
+!SLIDE center
 
-# y FubuMVC? #
+![y fubu](banner.jpg)
 
-## Why should I care about FubuMVC? ##
+<h2 class="light">Why should I care about FubuMVC?</h2>
 
-### by Ryan Kelley and Ryan Rauh ###
+> A wonderful presentation that you should pay attention to by Ryan & Ryan
 
-!SLIDE subsection
+!SLIDE center incremental bullets
+<h2 class="impact">or...</h2>
 
-# What are we talking about? #
+* ![y u no guy](yuno.jpg) <h3 class="impact">y u no use FuBuz!?!</h3>
+
+!SLIDE center
+###(srsly...)
+
+!SLIDE center
+##what are we talking about?
+
+![wtf mate](wtfmate.jpg)
+
+
+
 
 !SLIDE incremental bullets
 
-# MOAR! IoC #
+<h1 class="impact">Moar! IoC!!</h1>
 
 * FubuMVC was built from the ground up with the idea that all of its own composition and scope handling would be done with existing IoC tools.
 
 
 !SLIDE incremental bullets 
 
-# Conventions, conventions, conventions #
+<h1 class="impact">Conventions, conventions, conventions</h1>
 
 * FubuMVC allows you to conventionalize basically everything in the framework. We'll talk about how you can take advantage of some of these conventions.
 

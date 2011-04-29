@@ -1,6 +1,6 @@
-!SLIDE subsection
+!SLIDE 
 
-# Pro's and Con's
+# Pro's > Con's
 
 !SLIDE center
 
@@ -14,10 +14,11 @@
 !SLIDE
 
 # "Best Practices"
-!SLIDE
+!SLIDE center
 
 # It's Open Source #
-### and they take pull requests! ###
+### and how! They take pull requests! ###
+>GET YOURS TODAY!
 
 !SLIDE center
 
@@ -73,6 +74,15 @@
 
 # "For us, by us"
 ![not for you](haters_gonna_hate.png)
+
+!SLIDE center
+![honey badger](honey_badger.jpg)
+
+!SLIDE
+
+![beat down!](beatdown.gif)
+![haters gonna hate](haters-gonna-hate.gif)
+<p class="center">we will do this to you. srsly.</p>
 
 !SLIDE center
 # Not mainstream
