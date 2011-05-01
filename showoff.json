@@ -3,6 +3,8 @@
 	"description": "Why should you care about FubuMVC?",
 	"sections" : [
         	{"section":"intro"}
+        	,{"section":"about_me"}
+        	,{"section":"what_r_we_talkin_bout"}
 		,{"section":"features"}
 		,{"section":"pros_and_cons"}
 	]
