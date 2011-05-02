@@ -1,4 +1,3 @@
-
 !SLIDE center
 
 ![y fubu](banner.jpg)
